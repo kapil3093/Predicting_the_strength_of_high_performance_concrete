@@ -15,15 +15,15 @@ Concrete is the most important material in civil engineering. The concrete compr
 
 ### Attribute Information:
 
- Cement : measured in kg in a m3 mixture
- Blast : measured in kg in a m3 mixture
- Fly ash : measured in kg in a m3 mixture
- Water : measured in kg in a m3 mixture
- Superplasticizer : measured in kg in a m3 mixture
- Coarse Aggregate : measured in kg in a m3 mixture
- Fine Aggregate : measured in kg in a m3 mixture
- Age : day (1~365)
- Concrete compressive strength : measured in MPa
+1. Cement : measured in kg in a m3 mixture
+2. Blast : measured in kg in a m3 mixture
+3. Fly ash : measured in kg in a m3 mixture
+4. Water : measured in kg in a m3 mixture
+5. Superplasticizer : measured in kg in a m3 mixture
+6. Coarse Aggregate : measured in kg in a m3 mixture
+7. Fine Aggregate : measured in kg in a m3 mixture
+8. Age : day (1~365)
+9. Concrete compressive strength measured in MPa
 
 
 ### Skills and Tools:
